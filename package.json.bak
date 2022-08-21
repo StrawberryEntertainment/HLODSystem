@@ -7,7 +7,7 @@
 	"keywords": ["HLOD"],
 	"category": "",
 	"dependencies": {
-		"com.whinarn.unitymeshsimplifier": "https://github.com/StrawberryEntertainment/UnityMeshSimplifier.git",
+		"com.whinarn.unitymeshsimplifier": "https://github.com/StrawberryEntertainment/UnityMeshSimplifier.git"
 	},
 	"samples": [
     {
